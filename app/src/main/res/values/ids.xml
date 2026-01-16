@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="main" type="id" />
+    <item name="etEmail" type="id" />
+    <item name="titleTextView" type="id" />
+    <item name="authorTextView" type="id" />
+    <item name="genreTextView" type="id" />
+    <item name="methodText" type="id" />
+    <item name="timeText" type="id" />
+    <item name="statusDot" type="id" />
+</resources>
